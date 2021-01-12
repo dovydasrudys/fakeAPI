@@ -11,7 +11,7 @@
       "color": {"r": 255, "g": 0, "b": 0}},
     { "identifier": "Conveyor-02",
       "dynamic": "False",
-      "centrePosition": {"x": -1, "y": 0, "z": 0},
+      "centrePosition": {"x": -1, "y": 0.0, "z": 0},
       "direction": {"x": 1, "y": 0, "z": 0},
       "dimensions": {"width": 0.5, "height": 0.1},
       "color": {"r": 0, "g": 255, "b": 0}},
