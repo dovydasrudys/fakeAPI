@@ -5,7 +5,7 @@
   "objects": [
     { "identifier": "Conveyor-01",
       "dynamic": "False",
-      "centrePosition": {"x": -2, "y": 0, "z": 0},
+      "centrePosition": {"x": -2.0, "y": 0, "z": 0},
       "direction": {"x": 1, "y": 0, "z": 0},
       "dimensions": {"width": 0.5, "height": 0.1},
       "color": {"r": 255, "g": 0, "b": 0}},
